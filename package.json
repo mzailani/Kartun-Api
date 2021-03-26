@@ -1,5 +1,5 @@
 {
-  "name": "bioskop-api",
+  "name": "kartun-api",
   "version": "1.0.0",
   "description": "My Rest Api Projectttttt Free",
   "main": "index.js",
@@ -21,7 +21,7 @@
   "author": "Zhirrr",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Zhirrr/Bioskop-Api/issues"
+    "url": "https://github.com/Zhirrr/Kartun-Api/issues"
   },
   "dependencies": {
     "axios": "^0.21.1",
@@ -41,5 +41,5 @@
     "ssl-express-www": "^3.0.7",
     "urlencode": "^1.1.0"
   },
-  "homepage": "https://github.com/Zhirrr/Bioskop-Api#readme"
+  "homepage": "https://github.com/Zhirrr/Kartun-Api#readme"
 }
