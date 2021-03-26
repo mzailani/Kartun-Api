@@ -43,7 +43,7 @@
 
   <b>5. Kartun genre comedy</b>
 <div style="background-color='#f4f9f9'">
-    <pre>https://kartun-api-zahirr.herokuapp.com/api/genre/mecha</pre>
+    <pre>https://kartun-api-zahirr.herokuapp.com/api/genre/comedy</pre>
   </div>
 
   <b>6. Kartun genre military</b>
