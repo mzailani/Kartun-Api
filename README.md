@@ -56,6 +56,8 @@
     <pre>https://kartun-api-zahirr.herokuapp.com/api/kartun/search?film=spongebob</pre>
   </div>
 
+### Link NPM Packages
+https://www.npmjs.com/package/scrape-kartun
 
 ### LICENSE
 Ini adalah Api Open Source, jika kalian ingin meRecode nya danm memakai silahkan, dan jangan diperjualbelikan yaaaaaaa
